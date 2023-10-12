@@ -27,9 +27,7 @@ Users should be able to:
 ![photosnap screenshot](./screenshot.jpg)
 
 ### Links
-
-- Solution URL: [https://github.com/cjoak1028/photosnap-multi-page-website]
-- Live Site URL: [https://photosnap-multi-page-website-theta.vercel.app/]
+- Live Site URL: [https://photosnap.onrender.com]
 
 ## My process
 
